@@ -1,0 +1,11 @@
+
+Use TMDB / MovieLens dataset  
+Must include:
+- movie_id  
+- title  
+- overview  
+
+You can download from Kaggle:
+TMDB Movie Dataset or TMDB 5000 Movies
+
+1️⃣ Install dependencies  
